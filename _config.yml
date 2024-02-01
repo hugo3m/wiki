@@ -21,7 +21,7 @@
 title: Wiki hugo3m
 description: >- # this means to ignore newlines until "baseurl:"
   Personal wiki for hugo3m
-baseurl: "/wiki/" # the subpath of your site, e.g. /blog
+baseurl: "/wiki" # the subpath of your site, e.g. /blog
 url: "https://hugo3m.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: hugo3m
 

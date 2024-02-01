@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Welcome to hugo3m wiki
+
+- [Godot](/wiki/godot/)
