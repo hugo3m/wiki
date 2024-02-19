@@ -28,3 +28,4 @@ A physics body can hold Shape objects as children to define collision bounds and
 ## **Navigation**
 
 - [2D Physics](/wiki/godot/physics/2d)
+- [RigidBody](/wiki/godot/physics/rigidbody)
