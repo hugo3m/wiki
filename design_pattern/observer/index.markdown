@@ -1,32 +1,31 @@
 ---
 layout: page
-title: Observer
 permalink: /design_pattern/observer/
 ---
+
+## Observer
 Page dedicated to knowledge related to [Observer](https://gameprogrammingpatterns.com/observer.html).
 
-## In my own words
-
+### In my own words
 Observer pattern is for letting one piece of code announce that something interesting happened without actually caring who receives the notification.
 
-## Basic
-
+### Basic
 ```cpp
-// ===== Defining an Observer class observing a subject =======================
+// ===== defining an Observer class observing a subject =======================
 class Observer
 {
 public:
   virtual ~Observer() {}
   virtual void onNotify(const Entity& entity, Event event) = 0;
 };
-// ===== Subject being observed ===============================================
+// ===== subject being observed ===============================================
 class Subject
 {
-// ----- The subject has a list of observers ----------------------------------
+// ----- the subject has a list of observers ----------------------------------
 private:
   Observer* observers_[MAX_OBSERVERS];
   int numObservers_;
-// ----- You can publicly add or remove observers from the subject ------------
+// ----- you can publicly add or remove observers from the subject ------------
 public:
   void addObserver(Observer* observer)
   {
@@ -34,7 +33,7 @@ public:
   void removeObserver(Observer* observer)
   {
   }
-// ----- The subject will notify all his observers ----------------------------
+// ----- the subject will notify all his observers ----------------------------
 protected:
   void notify(const Entity& entity, Event event)
   {

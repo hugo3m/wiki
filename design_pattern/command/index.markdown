@@ -1,18 +1,19 @@
 ---
 layout: page
-title: Command
 permalink: /design_pattern/command/
 ---
+
+## Command
 Page dedicated to knowledge related to [Command design pattern](https://gameprogrammingpatterns.com/command.html).
 
-## In my own words
+### In my own words
 Command design pattern is a design pattern for encapsulating command function. The most interesting case is when storing a state for allowing undo and redo actions.
 
-## Basic idea
+### Basic idea
 From the Gang of Four: **Commands are an object-oriented replacement for callbacks.**
 
 ```cpp
-// ===== An interface command defining command methods ========================
+// ===== an interface command defining command methods ========================
 class Command
 {
 public:
@@ -21,7 +22,7 @@ public:
   virtual void execute(GameActor& actor) = 0;
 };
 
-// ===== A function returning command according to input ======================
+// ===== a function returning command according to input ======================
 Command* InputHandler::handleInput()
 {
   if (isPressed(BUTTON_X)) return buttonX_;
@@ -29,11 +30,11 @@ Command* InputHandler::handleInput()
   if (isPressed(BUTTON_A)) return buttonA_;
   if (isPressed(BUTTON_B)) return buttonB_;
 
-  // Nothing pressed, so do nothing.
+  // nothing pressed, so do nothing.
   return NULL;
 }
 
-// ===== Retrieve command and execute it on specific actor ====================
+// ===== retrieve command and execute it on specific actor ====================
 Command* command = inputHandler.handleInput();
 if (command)
 {
@@ -44,9 +45,8 @@ if (command)
 We can let the player control any actor in the game now by changing the actor we execute the commands on.
 
 ## Undo and Redo
-
 ```cpp
-// ===== Add undo method ======================================================
+// ===== add undo method ======================================================
 class Command
 {
 public:
@@ -55,7 +55,7 @@ public:
   virtual void undo() = 0;
 };
 
-// ===== Now the command stores previous and next state =======================
+// ===== now the command stores previous and next state =======================
 class MoveUnitCommand : public Command
 {
 public:
