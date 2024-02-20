@@ -6,4 +6,4 @@
 bundle exec jekyll serve
 ```
 
-## Access the (wiki)[https://hugo3m.github.io/wiki/]
+## Access the [wiki](https://hugo3m.github.io/wiki/)
