@@ -1,8 +1,9 @@
 ---
 layout: page
 permalink: /design_pattern/mvc/
+title: MVC
 ---
-## MVC
+
 Page dedicated to knowledge related to MVC Model View Controller
 
 ### **Introduction**

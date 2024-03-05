@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /design_pattern/
+title: Design pattern
 ---
 
-## Design pattern
 Page dedicated to knowledge related to design patterns
 
 - [Command](/wiki/design_pattern/command)

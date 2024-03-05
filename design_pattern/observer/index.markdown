@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /design_pattern/observer/
+title: Observer
 ---
 
-## Observer
 Page dedicated to knowledge related to [Observer](https://gameprogrammingpatterns.com/observer.html).
 
 ### In my own words

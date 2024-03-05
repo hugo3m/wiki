@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /design_pattern/flyweight/
+title: Flyweight
 ---
 
-## Flyweight
 Page dedicated to knowledge related to [Flyweight design pattern](https://gameprogrammingpatterns.com/flyweight.html).
 
 ### In my own words

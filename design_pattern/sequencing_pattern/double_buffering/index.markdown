@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /design_pattern/sequencing_pattern/double_buffering
+title: Double buffering
 ---
 
-## Double buffering
 Page dedicated to knowledge related to [double buffering](https://gameprogrammingpatterns.com/double-buffer.html).
 
 ### How computer graphics work briefly

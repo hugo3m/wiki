@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /design_pattern/singleton/
+title: Singleton
 ---
 
-## Singleton
 Page dedicated to knowledge related to [Singleton](https://gameprogrammingpatterns.com/singleton.html).
 
 ### In my own words

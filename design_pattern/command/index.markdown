@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /design_pattern/command/
+title: Command
 ---
 
-## Command
 Page dedicated to knowledge related to [Command design pattern](https://gameprogrammingpatterns.com/command.html).
 
 ### In my own words

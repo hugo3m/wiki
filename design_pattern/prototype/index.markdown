@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /design_pattern/prototype/
+title: Prototype
 ---
 
-## Prototype
 Page dedicated to knowledge related to [Prototype](https://gameprogrammingpatterns.com/prototype.html).
 
 ### Note

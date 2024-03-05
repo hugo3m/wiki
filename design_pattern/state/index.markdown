@@ -1,21 +1,20 @@
 ---
 layout: page
 permalink: /design_pattern/state/
+title: State
 ---
-
-## State
 Page dedicated to knowledge related to [State](https://gameprogrammingpatterns.com/state.html).
 
-### In my own words
+## In my own words
 Object implementation for state machines. Quick sum up of an example of state machine in the drawing below.
 ![State machine](state.png)
 
-### Use case
+## Use case
 - You have an entity whose behavior changes based on some internal state.
 - That state can be rigidly divided into one of a relatively small number of distinct options.
 - The entity responds to a series of inputs or events over time.
 
-### Basic
+## Basic
 Define a state interface and a class for each state
 ```cpp
 // ===== define singleton class filesystem ====================================
