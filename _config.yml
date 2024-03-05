@@ -26,7 +26,7 @@ url: "https://hugo3m.github.io" # the base hostname & protocol for your site, e.
 github_username: hugo3m
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
@@ -41,8 +41,8 @@ plugins:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-# - Gemfile
-# - Gemfile.lock
+#   - Gemfile
+#   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
