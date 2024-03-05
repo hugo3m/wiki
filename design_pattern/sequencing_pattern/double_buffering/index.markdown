@@ -20,6 +20,8 @@ The principle is to have **two framebuffers**, so that while one, is being displ
 - We want to prevent the code that’s accessing the state from seeing the work in progress.
 - We want to be able to read the state and we don’t want to have to wait while it’s being written.
 
+**The core problem that double buffering solves is state being accessed while it’s being modified.**
+
 
 
 

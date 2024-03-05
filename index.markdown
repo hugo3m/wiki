@@ -6,6 +6,8 @@ layout: home
 
 ## **Welcome to hugo3m wiki**
 
-- [Godot](/wiki/godot/)
-
 - [Design pattern](/wiki/design_pattern/)
+
+- [Gaffer on games](/wiki/gaffer_on_games)
+
+- [Godot](/wiki/godot/)
