@@ -4,7 +4,9 @@ permalink: /design_pattern/
 title: Design pattern
 ---
 
-Page dedicated to knowledge related to design patterns
+Page dedicated to knowledge related to design patterns from [game programming patterns](https://gameprogrammingpatterns.com/contents.html).
+
+- [Behavioral pattern](/wiki/design_pattern/behavioral_pattern)
 
 - [Command](/wiki/design_pattern/command)
 
