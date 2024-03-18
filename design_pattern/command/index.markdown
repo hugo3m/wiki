@@ -4,7 +4,7 @@ permalink: /design_pattern/command/
 title: Command
 ---
 
-Page dedicated to knowledge related to [Command design pattern](https://gameprogrammingpatterns.com/command.html).
+Page dedicated to knowledge related to [Command design pattern from gaming programming pattern by Robert Nystrom.](https://gameprogrammingpatterns.com/command.html).
 
 ### In my own words
 Command design pattern is a design pattern for encapsulating command function. The most interesting case is when storing a state for allowing undo and redo actions.

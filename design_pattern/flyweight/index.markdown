@@ -4,7 +4,7 @@ permalink: /design_pattern/flyweight/
 title: Flyweight
 ---
 
-Page dedicated to knowledge related to [Flyweight design pattern](https://gameprogrammingpatterns.com/flyweight.html).
+Page dedicated to knowledge related to [Flyweight design pattern described by Robert Nystrom in the game programming patterns.](https://gameprogrammingpatterns.com/flyweight.html).
 
 ### In my own words
 Flyweight is the idea of separating generic data common for every instance of an object, called **instrinsic state**, such as the color and texture, from the data specific for each instance, such as location, called **extrinsic state**.

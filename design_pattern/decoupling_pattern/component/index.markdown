@@ -4,7 +4,7 @@ permalink: /design_pattern/decoupling_pattern/component
 title: Component
 ---
 
-Page dedicated to knowledge related to [component](https://gameprogrammingpatterns.com/component.html).
+Page dedicated to knowledge related to [component design pattern described by Robert Nystrom in the game programming patterns.](https://gameprogrammingpatterns.com/component.html).
 
 ## Intent
 

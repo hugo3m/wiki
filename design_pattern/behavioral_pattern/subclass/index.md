@@ -4,7 +4,7 @@ permalink: /design_pattern/behavioral_pattern/subclass
 title: Subclass
 ---
 
-Page dedicated to knowledge related to [subclass](https://gameprogrammingpatterns.com/subclass-sandbox.html).
+Page dedicated to knowledge related to [subclass design pattern described by by Robert Nystrom in the game programming patterns.](https://gameprogrammingpatterns.com/subclass-sandbox.html).
 
 ## My opinion
 

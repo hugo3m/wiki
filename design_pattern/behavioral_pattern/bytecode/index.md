@@ -4,7 +4,7 @@ permalink: /design_pattern/behavioral_pattern/bytecode
 title: Bytecode
 ---
 
-Page dedicated to knowledge related to [bytecode](https://gameprogrammingpatterns.com/bytecode.html).
+Page dedicated to knowledge related to [bytecode design pattern described by Robert Nystrom in the game programming patterns.](https://gameprogrammingpatterns.com/bytecode.html).
 
 ## My opinion about it
 

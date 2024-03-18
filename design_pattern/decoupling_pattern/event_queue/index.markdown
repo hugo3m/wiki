@@ -4,6 +4,8 @@ permalink: /design_pattern/decoupling_pattern/event_queue
 title: Event queue
 ---
 
+Page dedicated to knowledge related to [event queue design pattern described by Robert Nystrom in the game programming patterns.](https://gameprogrammingpatterns.com/event-queue.html).
+
 ## Intent
 
 Decouple when a message or event is sent from when it is processed. A queue stores a series of notifications or requests in first-in, first-out order.

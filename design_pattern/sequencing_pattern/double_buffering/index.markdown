@@ -4,7 +4,7 @@ permalink: /design_pattern/sequencing_pattern/double_buffering
 title: Double buffering
 ---
 
-Page dedicated to knowledge related to [double buffering](https://gameprogrammingpatterns.com/double-buffer.html).
+Page dedicated to knowledge related to [double buffering design pattern described by Robert Nystrom in the game programming patterns.](https://gameprogrammingpatterns.com/double-buffer.html).
 
 ### How computer graphics work briefly
 In the example below, when drawing a smiley, we need to write to the **framebuffer**. In order to display the smiley, the computer will read value from the framebuffer. However, because the reading operation is faster than the writing operation, it will not display correctly the smiley. It is only displaying pixels before the writing operation was done.

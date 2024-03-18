@@ -4,7 +4,7 @@ permalink: /design_pattern/behavioral_pattern/type_object
 title: Type object
 ---
 
-Page dedicated to knowledge related to [type object](https://gameprogrammingpatterns.com/type-object.html).
+Page dedicated to knowledge related to [type object design pattern described by by Robert Nystrom in the game programming patterns.](https://gameprogrammingpatterns.com/type-object.html).
 
 ## My understanding
 

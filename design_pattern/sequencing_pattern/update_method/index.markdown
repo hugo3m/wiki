@@ -4,7 +4,7 @@ permalink: /design_pattern/sequencing_pattern/update_method
 title: Update method
 ---
 
-Page dedicated to knowledge related to [update method](https://gameprogrammingpatterns.com/update-method.html).
+Page dedicated to knowledge related to [update method design pattern described by Robert Nystrom in the game programming patterns.](https://gameprogrammingpatterns.com/update-method.html).
 
 ## Basic
 

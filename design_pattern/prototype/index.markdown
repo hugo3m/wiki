@@ -4,7 +4,7 @@ permalink: /design_pattern/prototype/
 title: Prototype
 ---
 
-Page dedicated to knowledge related to [Prototype](https://gameprogrammingpatterns.com/prototype.html).
+Page dedicated to knowledge related to [Prototype design pattern described by Robert Nystrom in the game programming patterns.](https://gameprogrammingpatterns.com/prototype.html).
 
 ### Note
 **“object-oriented programming” lets you define “objects” which bundle data and code together.**

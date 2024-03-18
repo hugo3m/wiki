@@ -4,7 +4,7 @@ permalink: /design_pattern/singleton/
 title: Singleton
 ---
 
-Page dedicated to knowledge related to [Singleton](https://gameprogrammingpatterns.com/singleton.html).
+Page dedicated to knowledge related to [Singleton design pattern described by Robert Nystrom in the game programming patterns.](https://gameprogrammingpatterns.com/singleton.html).
 
 ### In my own words
 Ensure a class has one instance, and provide a global point of access to it.

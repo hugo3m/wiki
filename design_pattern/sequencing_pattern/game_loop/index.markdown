@@ -4,7 +4,7 @@ permalink: /design_pattern/sequencing_pattern/game_loop
 title: Game loop
 ---
 
-Page dedicated to knowledge related to [game loop](https://gameprogrammingpatterns.com/game-loop.html).
+Page dedicated to knowledge related to [game loop design pattern described by Robert Nystrom in the game programming patterns.](https://gameprogrammingpatterns.com/game-loop.html).
 
 ### Basic understanding
 

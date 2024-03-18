@@ -4,7 +4,7 @@ permalink: /design_pattern/observer/
 title: Observer
 ---
 
-Page dedicated to knowledge related to [Observer](https://gameprogrammingpatterns.com/observer.html).
+Page dedicated to knowledge related to [Observer design pattern described by Robert Nystrom in the game programming patterns.](https://gameprogrammingpatterns.com/observer.html).
 
 ### In my own words
 Observer pattern is for letting one piece of code announce that something interesting happened without actually caring who receives the notification.

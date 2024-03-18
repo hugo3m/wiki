@@ -3,7 +3,7 @@ layout: page
 permalink: /design_pattern/state/
 title: State
 ---
-Page dedicated to knowledge related to [State](https://gameprogrammingpatterns.com/state.html).
+Page dedicated to knowledge related to [State design pattern described by Robert Nystrom in the game programming patterns.](https://gameprogrammingpatterns.com/state.html)
 
 ## In my own words
 Object implementation for state machines. Quick sum up of an example of state machine in the drawing below.
