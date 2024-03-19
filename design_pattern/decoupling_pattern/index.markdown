@@ -4,7 +4,7 @@ permalink: /design_pattern/decoupling_pattern
 title: Decoupling pattern
 ---
 
-Page dedicated to knowledge related to decoupling design patterns
+Page dedicated to knowledge related to decoupling design patterns. The patterns within this section decouple domains so that code become independent.
 
 - [Component](/wiki/design_pattern/decoupling_pattern/component)
 

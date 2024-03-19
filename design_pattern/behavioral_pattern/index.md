@@ -4,7 +4,7 @@ permalink: /design_pattern/behavioral_pattern
 title: Behavioral pattern
 ---
 
-Page dedicated to knowledge related to behavioral patterns
+Page dedicated to knowledge related to behavioral patterns. The patterns within section help to quickly define and refine a large quantity of maintainable behavior.
 
 - [Bytecode](/wiki/design_pattern/behavioral_pattern/bytecode)
 
