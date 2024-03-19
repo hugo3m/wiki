@@ -10,3 +10,5 @@ title: Welcome to hugo3 wiki
 - [Gaffer on games](/wiki/gaffer_on_games)
 
 - [Godot](/wiki/godot/)
+
+- [Lyra](/wiki/lyra/)
