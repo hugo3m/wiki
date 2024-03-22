@@ -1,5 +1,11 @@
 # Personal wiki hugo3m
 
+## Install dependencies
+
+```sh
+bundle install
+```
+
 ## Run the web server
 
 ```sh
