@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /lyra/character
+permalink: /unreal_engine/lyra/character
 title: Lyra character
 ---
 
