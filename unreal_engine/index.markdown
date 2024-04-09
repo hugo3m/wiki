@@ -8,4 +8,6 @@ Page dedicated to knowledge related to Unreal Engine.
 
 - [Lyra](/wiki/unreal_engine/lyra/)
 
+Game mode only lives on the server.
+
 

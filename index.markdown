@@ -5,6 +5,8 @@ layout: home
 title: Welcome to hugo3 wiki
 ---
 
+- [Computer graphics](/wiki/computer_graphics)
+
 - [Design pattern](/wiki/design_pattern/)
 
 - [Gaffer on games](/wiki/gaffer_on_games)
