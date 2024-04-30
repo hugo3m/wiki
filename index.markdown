@@ -5,7 +5,7 @@ layout: home
 title: Welcome to hugo3 wiki
 ---
 
-- [Computer graphics](/wiki/computer_graphics)
+- [Computer graphics](/wiki/computer_graphics/)
 
 - [Design pattern](/wiki/design_pattern/)
 
@@ -14,3 +14,5 @@ title: Welcome to hugo3 wiki
 - [Godot](/wiki/godot/)
 
 - [Unreal Engine](/wiki/unreal_engine/)
+
+- [Netcode](/wiki/netcode/)
