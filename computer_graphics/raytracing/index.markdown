@@ -10,5 +10,7 @@ Page dedicated to knowledge related to raytracing.
 
 ![Circle intersection](circle-intersection.png)
 
+![Ray sweeping](ray-sweeping.png)
+
 
 
