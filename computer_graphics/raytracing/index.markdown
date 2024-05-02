@@ -6,11 +6,9 @@ title: Raytracing
 
 Page dedicated to knowledge related to raytracing.
 
-### Intersection with a circle
+- [Sphere](/wiki/computer_graphics/raytracing/sphere)
 
-![Circle intersection](circle-intersection.png)
-
-![Ray sweeping](ray-sweeping.png)
+- [Raysweeping](/wiki/computer_graphics/raytracing/raysweeping)
 
 
 
