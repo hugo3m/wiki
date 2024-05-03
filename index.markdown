@@ -9,8 +9,6 @@ title: Welcome to hugo3 wiki
 
 - [Design pattern](/wiki/design_pattern/)
 
-- [Gaffer on games](/wiki/gaffer_on_games)
-
 - [Godot](/wiki/godot/)
 
 - [Unreal Engine](/wiki/unreal_engine/)
