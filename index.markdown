@@ -11,4 +11,6 @@ title: Welcome to hugo3 wiki
 
 - [Game engine](/wiki/game_engine)
 
+- [Geometry](/wiki/geometry)
+
 - [Netcode](/wiki/netcode/)
