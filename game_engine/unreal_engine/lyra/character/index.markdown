@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /unreal_engine/lyra/character
+permalink: /game_engine/unreal_engine/lyra/character
 title: Lyra character
 ---
 
@@ -9,7 +9,7 @@ title: Lyra character
 
 {% mermaid %}
 classDiagram
-    
+
     class AActor{
     }
     class ACharacter{
@@ -37,12 +37,12 @@ classDiagram
     }
     class ULyraCameraComponent{
         +FindCameraComponent(const AActor* Actor) ULyraCameraComponent*
-        #GetCameraView(float DeltaTime, FMinimalViewInfo& DesiredView) 
+        #GetCameraView(float DeltaTime, FMinimalViewInfo& DesiredView)
     }
     class ULyraCharacterMovementComponent{
     }
     class ULyraHealthComponent{
-        +FindHealthComponent(const AActor* Actor) ULyraHealthComponent* 
+        +FindHealthComponent(const AActor* Actor) ULyraHealthComponent*
         +GetHealth() float
         #HandleHealthChanged(AActor* DamageInstigator, AActor* DamageCauser)
     }
@@ -89,7 +89,7 @@ classDiagram
 
 {% mermaid %}
 classDiagram
-    
+
     class APawn{
     }
     class ULyraAbilitySystemComponent{
@@ -132,7 +132,7 @@ classDiagram
 
 {% mermaid %}
 classDiagram
-    
+
     class AActor{
     }
     class ACharacter{
@@ -160,12 +160,12 @@ classDiagram
     }
     class ULyraCameraComponent{
         +FindCameraComponent(const AActor* Actor) ULyraCameraComponent*
-        #GetCameraView(float DeltaTime, FMinimalViewInfo& DesiredView) 
+        #GetCameraView(float DeltaTime, FMinimalViewInfo& DesiredView)
     }
     class ULyraCharacterMovementComponent{
     }
     class ULyraHealthComponent{
-        +FindHealthComponent(const AActor* Actor) ULyraHealthComponent* 
+        +FindHealthComponent(const AActor* Actor) ULyraHealthComponent*
         +GetHealth() float
         #HandleHealthChanged(AActor* DamageInstigator, AActor* DamageCauser)
     }

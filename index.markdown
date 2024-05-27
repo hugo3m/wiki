@@ -9,8 +9,6 @@ title: Welcome to hugo3 wiki
 
 - [Design pattern](/wiki/design_pattern/)
 
-- [Godot](/wiki/godot/)
-
-- [Unreal Engine](/wiki/unreal_engine/)
+- [Game engine](/wiki/game_engine)
 
 - [Netcode](/wiki/netcode/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /godot/physics/
+permalink: /game_engine/godot/physics/
 ---
 ## Physics
 
@@ -23,5 +23,5 @@ A physics body can hold Shape objects as children to define collision bounds and
 - collision_mask: describe what layers the body scan for collisions.
 
 ### **Navigation**
-- [2D Physics](/wiki/godot/physics/2d)
-- [RigidBody](/wiki/godot/physics/rigidbody)
+- [2D Physics](/wiki/game_engine/godot/physics/2d)
+- [RigidBody](/wiki/game_engine/godot/physics/rigidbody)

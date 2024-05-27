@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /godot/physics/2d
+permalink: /game_engine/godot/physics/2d
 ---
 ## 2D Physics
 ### Collision objects

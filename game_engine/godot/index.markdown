@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /godot/
+permalink: /game_engine/godot/
 ---
 ## Godot
 Page dedicated to knowledge related to Godot.
 
-- [Physics](/wiki/godot/physics)
+- [Physics](/wiki/game_engine/godot/physics)

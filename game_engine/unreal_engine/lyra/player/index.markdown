@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /unreal_engine/lyra/player
+permalink: /game_engine/unreal_engine/lyra/player
 title: Lyra character
 ---
 
@@ -9,7 +9,7 @@ title: Lyra character
 
 {% mermaid %}
 classDiagram
-    
+
     class ACommonPlayerController{
     }
     class AController{
@@ -60,7 +60,7 @@ classDiagram
 
 {% mermaid %}
 classDiagram
-    
+
     class ACommonPlayerController{
     }
     class AController{
@@ -69,7 +69,7 @@ classDiagram
     }
     class ALyraPlayerStart{
         #TObjectPtr~AController~ ClaimingController
-        
+
         +IsClaimed() bool
         +TryClaim(AController OccupyingController) bool
     }
@@ -100,7 +100,7 @@ classDiagram
 
 {% mermaid %}
 classDiagram
-    
+
     class AAIController{
     }
     class AController{
