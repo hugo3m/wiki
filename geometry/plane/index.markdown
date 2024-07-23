@@ -9,7 +9,7 @@ title: Plane
 
 A Euclidian plane is a Euclidian space of dimension two. A Euclidian plane is defined by a point and a normal vector.
 
-![Plane](plane.jpg)
+![Plane](/wiki/assets/geometry/plane/plane.jpg)
 
 A plane is often defined by the equation:
 

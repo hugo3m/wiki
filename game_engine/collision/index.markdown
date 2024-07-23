@@ -4,7 +4,7 @@ permalink: /game_engine/collision
 title: Collision
 ---
 
-## (Axis-aligned bounding box - AABB)[https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_collision_detection]
+## [Axis-aligned bounding box - AABB](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_collision_detection)
 
 AABB is the quickest algorithm to determine whether two entities are overlapping or not. It consists of wrapping entities in a non-rotated box (thus axis-aligned).
 

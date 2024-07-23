@@ -23,7 +23,7 @@ The cross product *u* x *v* is defined as a vector *w* that is orthogonal to bot
 u x v = ||u|| * ||v|| * sin(θ) * w
 ```
 
-![Cross product](cross_product.jpg)
+![Cross product](/wiki/assets/geometry/vector/cross_product.jpg)
 
 #### Properties
 
