@@ -4,7 +4,7 @@ permalink: /computer_graphics/raytracing/sphere
 title: Sphere
 ---
 
-![Circle intersection](circle-intersection.png)
+![Circle intersection](/wiki/assets/computer_graphics/raytracing/sphere/circle-intersection.png)
 
 
 

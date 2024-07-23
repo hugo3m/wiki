@@ -32,7 +32,7 @@ void handleMelee(Unit* units[], int numUnits)
 ```
 
 But imagine we simplify the game and have a 1D battlefield instead of a 2D battlefield.
-![spatial partition battle line](spatial-partition-battle-line.png)
+![spatial partition battle line](/wiki/assets/design_pattern/optimization_pattern/spatial_partition/spatial-partition-battle-line.png)
 Then we just need to sort the array. The lesson here is: **if we store our objects in a data structure organized by their locations, we can find them much more quickly.**
 
 ## The pattern
@@ -192,7 +192,7 @@ void Grid::move(Unit* unit, double x, double y)
     - objects can be added incrementally;
     - objects can be moved quickly;
     - partition are balanced.
-![spatial partition quadtree](spatial-partition-quadtree.png)
+![spatial partition quadtree](/wiki/assets/design_pattern/optimization_pattern/spatial_partition/spatial-partition-quadtree.png)
 
 ## Are objects only stored in the partition?
 

@@ -46,9 +46,9 @@ If suddenly:
 * I do not know what type of ```Monster``` I need to handle.
 
 The idea is moving from inheritance to type object by defining an object composition handling all the cases, from this:
-![Subclass](type-object-subclasses.png)
+![Subclass](/wiki/assets/design_pattern/behavioral_pattern/type_object/type-object-subclasses.png)
 To this:
-![Type object](type-object-breed.png)
+![Type object](/wiki/assets/design_pattern/behavioral_pattern/type_object/type-object-breed.png)
 
 ```cpp
 // a breed type

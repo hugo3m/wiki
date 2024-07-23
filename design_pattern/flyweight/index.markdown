@@ -51,7 +51,7 @@ private:
 };
 ```
 This helps for storing stuff in main memory, but that doesn’t help rendering. To minimize the amount of data we have to push to the GPU, we want to be able to send the shared data — the TreeModel — just once. Then, separately, we push over every tree instance’s unique data — its position, color, and scale. Finally, we tell the GPU, “Use that one model to render each of these instances.”
-![Flyweight tiles](flyweight-tiles.png)
+![Flyweight tiles](/wiki/assets/design_pattern/flyweight/flyweight-tiles.png)
 ```cpp
 // ===== define the intrinsic attribute of a terrain ==========================
 class Terrain

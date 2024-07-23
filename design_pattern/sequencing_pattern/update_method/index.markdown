@@ -20,7 +20,7 @@ Important notes:
 - **Be careful modifying the object list while updating.**
 - **This pattern lets us separate populating the game world from implementing it.**
 
-![Update method UML](update-method-uml.png)
+![Update method UML](/wiki/assets/design_pattern/sequencing_pattern/update_method/update-method-uml.png)
 
 ## Composition vs inheritance
 

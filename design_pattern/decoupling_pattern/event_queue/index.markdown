@@ -33,9 +33,9 @@ In practice, **the best way to store a bunch of homogenous things is almost alwa
 * The head is where request are read from
 * The tail is the other end
 
-![Event-queue-queue](event-queue-queue.png)
-![Event-queue-crawl](event-queue-crawl.png)
-![Event-queue-ring](event-queue-ring.png)
+![Event-queue-queue](/wiki/assets/design_pattern/decoupling_pattern/event_queue/event-queue-queue.png)
+![Event-queue-crawl](/wiki/assets/design_pattern/decoupling_pattern/event_queue/event-queue-crawl.png)
+![Event-queue-ring](/wiki/assets/design_pattern/decoupling_pattern/event_queue/event-queue-ring.png)
 
 ```cpp
 // play sound function add event to the queue

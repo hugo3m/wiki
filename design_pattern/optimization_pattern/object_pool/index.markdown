@@ -16,7 +16,7 @@ Improve performance and memory use by reusing objects from a fixed pool instead 
 
 Fragmentation means the free space in our heap is **broken into smaller pieces of memory instead of one large open block**. The total memory available may be large, but the largest contiguous region might be painfully small.
 
-![Object pool heap fragmentation](object-pool-heap-fragment.png)
+![Object pool heap fragmentation](/wiki/assets//design_pattern/optimization_pattern/object_pool/object-pool-heap-fragment.png)
 
 ### Best of both worlds
 

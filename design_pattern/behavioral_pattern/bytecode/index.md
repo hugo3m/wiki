@@ -20,7 +20,7 @@ The Interpreter pattern isn’t about creating that tree; it’s about executing
 (1 + 2) * (3 - 4)
 ```
 
-![Bytecode ast](bytecode-ast.png)
+![Bytecode ast](/wiki/assets/design_pattern/behavioral_pattern/bytecode/bytecode-ast.png)
 
 ```cpp
 // define number expression

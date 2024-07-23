@@ -8,7 +8,7 @@ Page dedicated to knowledge related to [double buffering design pattern describe
 
 ### How computer graphics work briefly
 In the example below, when drawing a smiley, we need to write to the **framebuffer**. In order to display the smiley, the computer will read value from the framebuffer. However, because the reading operation is faster than the writing operation, it will not display correctly the smiley. It is only displaying pixels before the writing operation was done.
-![Double buffering tearing](double-buffer-tearing.png)
+![Double buffering tearing](/wiki/assets/design_pattern/sequencing_pattern/double_buffering/double-buffer-tearing.png)
 We need a pattern because program renders the pixels one at a time, but we need the display driver to see them all at once.
 
 ### Basic understanding

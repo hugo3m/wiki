@@ -7,7 +7,7 @@ Page dedicated to knowledge related to [State design pattern described by Robert
 
 ## In my own words
 Object implementation for state machines. Quick sum up of an example of state machine in the drawing below.
-![State machine](state.png)
+![State machine](/wiki/assets/design_pattern/state/state.png)
 
 ## Use case
 - You have an entity whose behavior changes based on some internal state.
