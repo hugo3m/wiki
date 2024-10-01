@@ -8,6 +8,9 @@ Page dedicated to knowledge related to computer graphics
 
 - [Raytracing](/wiki/computer_graphics/raytracing)
 
-- [Dmitry tiny](https://github.com/ssloy)
+Ressources:
 
+- [Computer graphics from scratch - Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/index.html)
+
+- [Dmitry tiny](https://github.com/ssloy)
 

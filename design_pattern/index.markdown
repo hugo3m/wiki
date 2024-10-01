@@ -6,6 +6,7 @@ title: Design pattern
 
 Page dedicated to knowledge related to design patterns.
 
+- [Architecture pattern](/wiki/design_pattern/architecture_pattern)
 - [Behavioral pattern](/wiki/design_pattern/behavioral_pattern)
     - [Bytecode](/wiki/design_pattern/behavioral_pattern/bytecode)
     - [Subclass](/wiki/design_pattern/behavioral_pattern/subclass)
