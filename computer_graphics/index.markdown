@@ -6,6 +6,8 @@ title: Computer graphics
 
 Page dedicated to knowledge related to computer graphics
 
+- [Rasterizing](/wiki/computer_graphics/rasterizing)
+
 - [Raytracing](/wiki/computer_graphics/raytracing)
 
 Ressources:
