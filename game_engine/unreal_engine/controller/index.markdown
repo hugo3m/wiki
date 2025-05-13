@@ -54,9 +54,9 @@ classDiagram
     AAIController "0..*" *-- "1" UAIPerceptionComponent
 
     AAIController --|> AController
-    AAIController --|> IAIPerceptionListenerInterface
-    AAIController --|> IGameplayTaskOwnerInterface
-    AAIController --|> IGenericTeamAgentInterface
-    AAIController --|> IVisualLoggerDebugSnapshotInterface
+
+    class UBehaviorTreeComponent{
+    }
+    UBehaviorTreeComponent --|> UBrainComponent
 
 {% endmermaid %}
