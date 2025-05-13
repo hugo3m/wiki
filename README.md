@@ -3,6 +3,7 @@
 ## Install dependencies
 
 ```sh
+gem install bundler:2.3.26
 bundle install
 ```
 
