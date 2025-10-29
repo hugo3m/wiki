@@ -12,6 +12,8 @@ Page dedicated to knowledge related to computer graphics
 
 - [Raytracing](/wiki/computer_graphics/raytracing)
 
+- [Skinning](/wiki/computer_graphics/skinning)
+
 Ressources:
 
 - [Computer graphics from scratch - Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/index.html)
