@@ -13,4 +13,6 @@ title: Welcome to hugo3 wiki
 
 - [Geometry](/wiki/geometry)
 
+- [Machine learning](/wiki/machine_learning/)
+
 - [Netcode](/wiki/netcode/)
